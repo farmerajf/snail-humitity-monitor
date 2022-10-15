@@ -52,3 +52,11 @@ Once the code is written we hit the upload button. After a few seconds the LED w
 [How to Setup and Program NodeMCU ESP8266–Complete Guide - YouTube](https://www.youtube.com/watch?v=YN522_npNqs)
 
 [A Beginner's Guide to the ESP8266](https://tttapa.github.io/ESP8266/Chap10%20-%20Simple%20Web%20Server.html)
+
+
+
+[DHT-sensor-library/DHTtester.ino at master · adafruit/DHT-sensor-library · GitHub](https://github.com/adafruit/DHT-sensor-library/blob/master/examples/DHTtester/DHTtester.ino)
+
+![](assets/2022-10-12-21-44-44-image.png)
+
+![](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/05/ESP8266-WeMos-D1-Mini-pinout-gpio-pin.png?quality=100&strip=all&ssl=1)
